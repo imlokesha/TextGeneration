@@ -110,6 +110,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# training_ckpt
+/training_ckpt
+
 # Spyder project settings
 .spyderproject
 .spyproject
